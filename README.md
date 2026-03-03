@@ -11,7 +11,7 @@
 
 </div>
 
-![alt text](Overview.png)
+![alt text](Poster.png)
 
 # Installation
 
